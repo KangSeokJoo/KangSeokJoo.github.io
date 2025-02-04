@@ -1,9 +1,10 @@
 ---
-layout: home
-title: Jekyll Gitbook Theme
-permalink: /
+title: ThemeOriginalSource
+author: Tao He
+date: 2022-02-05
+category: Jekyll
+layout: post
 ---
-
 Make Jelly site have a GitBook look!
 
 ## Demo
