@@ -22,7 +22,8 @@ permalink: /
 ``` 
 - 통해 [127.0.0.1:4000](http://localhost:4000) 으로 변경 상황 확인
 
-> Jeklly 디렉토리 구조 및 정의, 명명 규칙 https://jekyllrb-ko.github.io/docs/structure/
+> [Jeklly 디렉토리 구조 및 정의, 명명 규칙](https://jekyllrb-ko.github.io/docs/structure/)
+
 ## 🌐 웹페이지
 
 - __https://kangseokjoo.github.io__
